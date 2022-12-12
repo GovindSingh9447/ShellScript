@@ -17,7 +17,7 @@ echo ${HOME}
 echo ${OSTYPE}
 echo $PATH
 
-
-
+echo $PWD
+echo $HOMENAME
 
 
