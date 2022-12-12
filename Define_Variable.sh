@@ -11,6 +11,11 @@ work="program"
 var="ing"
 echo "I am ${work}${var}"
 
+echo ${$}
+echo ${PPID}
+echo ${HOME}
+echo ${OSTYPE}
+echo $PATH
 
 
 
