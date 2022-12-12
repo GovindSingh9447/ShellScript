@@ -10,7 +10,7 @@ echo "My name is ${name} and my age is ${age}"
 work="program"
 var="ing"
 echo "I am ${work}${var}"
-
+echo $UID
 echo ${$}
 echo ${PPID}
 echo ${HOME}
